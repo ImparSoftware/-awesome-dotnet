@@ -1,12 +1,10 @@
 # Impar Software
 
-# Awesome dotnet (.Net) Library
+# Awesome dotnet Tips and Tricks
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Generic badge](https://img.shields.io/badge/dotnet-CS-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/dotnet-CS-blue.svg)](https://shields.io/](https://github.com/dotnet)
 
-A collection of awesome dotnet (.net) libraries, tools, frameworks and software
-
-Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) and [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks).
+A curated list of awesome dotnet (.net) Maui tips and tricks
 
 Thanks to all [contributors](https://github.com/ImparSoftware/awesome-dotnet/graphs/contributors)
 
@@ -16,6 +14,6 @@ Made with :heart: in South America, Brazil, RS - Santa Cruz do Sul
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://mit-license.org) of course 
 
-# Table of Contents
+# To Begin
 
-#### very soon...
+First, .Net Maui is in RC (Release Candidate) version at this time (18/06/2022)
