@@ -2,7 +2,7 @@
 
 # Awesome dotnet (.Net) Library
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Generic badge](https://img.shields.io/badge/dotnet-CS-blue.svg)](https://shields.io/)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Generic badge](https://img.shields.io/badge/dotnet-CS-blue.svg)](https://github.com/dotnet/)
 
 A collection of awesome dotnet (.net) libraries, tools, frameworks and software
 
